@@ -13,6 +13,7 @@
   
   <div align="center">
     <!-- profile logo 个人资料徽标 -->
+    <a href="https://github.com/NobitaYuan"><img src="https://img.shields.io/badge/GitHub-仓库-inactive" /></a>&emsp;
     <a href="https://nobitayuan.github.io"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://space.bilibili.com/19217489"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/yuan1723936262"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
@@ -31,10 +32,10 @@
     <img  src="https://github-profile-trophy.vercel.app/?username=NobitaYuan&theme=nord&row=1&column=7&no-frame=true&no-bg=false" /><br><br>
   </div>
   
-<!--  活跃曲线图  -->
-<table align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NobitaYuan&theme=react" alt="Activity"/>
-</table>
+  <!--  活跃曲线图  -->
+  <table align="center">
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=NobitaYuan&theme=react" alt="Activity"/>
+  </table>
   
   <!--  周连续贡献  -->
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/shin_chan.gif" />&emsp;[![GitHub Streak](https://streak-stats.demolab.com?user=NobitaYuan&theme=tokyonight&locale=zh_Hans&mode=weekly)](https://git.io/streak-stats)&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/shin_chan.gif" />
@@ -55,7 +56,7 @@
   </div>
   
   <!-- Quotes 名人名言 -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
+  <br><br><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
   
    <!-- ########################################## 分割线 ########################################## -->
   <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
