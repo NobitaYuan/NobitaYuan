@@ -3,16 +3,43 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=道阻且长行 则将至;袁同学祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=道阻且长 行则将至;袁同学祝您今天生活愉快!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
-
-  <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
-
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <img src="https://cdn.jsdelivr.net/gh/NobitaYuan/NobitaYuan/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <div align="center">
+    <!-- knock code pictures 敲代码的图片 -->
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+  </div><br>
+  
+  <div align="center">
+    <!-- profile logo 个人资料徽标 -->
+    <a href="https://nobitayuan.github.io"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://space.bilibili.com/19217489"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://blog.csdn.net/yuan1723936262"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/hello-43-1-31"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <!-- visitor statistics logo 访客数统计徽标 -->
+    <img src="https://komarev.com/ghpvc/?username=NobitaYuan&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  </div>
+  
+</div>
+  <!-- ########################################## 分割线 ########################################## -->
+  <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+  
+<div align="center">
+  <!--  奖杯  -->
+  <div align="center">
+    <img  src="https://github-profile-trophy.vercel.app/?username=NobitaYuan&theme=nord&row=1&column=7&no-frame=true&no-bg=false" /><br><br>
+  </div>
+  
+  <!--  活跃曲线图  -->
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NobitaYuan&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  <!--  周连续贡献  -->
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/shin_chan.gif" />&emsp;[![GitHub Streak](https://streak-stats.demolab.com?user=NobitaYuan&theme=tokyonight&locale=zh_Hans&mode=weekly)](https://git.io/streak-stats)&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/shin_chan.gif" />
+   
+  <!-- GitHub 数据统计 -->
+  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NobitaYuan&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=radical" />
+  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NobitaYuan&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=radical" /><br><br>
 
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NobitaYuan)](https://github.com/anuraghazra/github-readme-stats)
