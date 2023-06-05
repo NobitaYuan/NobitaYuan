@@ -2,7 +2,7 @@
   
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
-    <a href="https://blog.sunguoqi.com/">
+    <a href="https://nobitayuan.github.io/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=道阻且长 行则将至;袁同学祝您今天生活愉快!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
