@@ -31,8 +31,10 @@
     <img  src="https://github-profile-trophy.vercel.app/?username=NobitaYuan&theme=nord&row=1&column=7&no-frame=true&no-bg=false" /><br><br>
   </div>
   
-  <!--  活跃曲线图  -->
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NobitaYuan&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--  活跃曲线图  -->
+<table align="center">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NobitaYuan&theme=react" alt="Activity"/>
+</table>
   
   <!--  周连续贡献  -->
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/shin_chan.gif" />&emsp;[![GitHub Streak](https://streak-stats.demolab.com?user=NobitaYuan&theme=tokyonight&locale=zh_Hans&mode=weekly)](https://git.io/streak-stats)&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/shin_chan.gif" />
@@ -41,5 +43,21 @@
   <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NobitaYuan&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=radical" />
   <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NobitaYuan&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=radical" /><br><br>
 
+  <div align="center">
+    <!-- gif -->
+    <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
+    <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
+    <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
+    <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
+    <img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
+    <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
+    <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
+  </div>
+  
+  <!-- Quotes 名人名言 -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
+  
+   <!-- ########################################## 分割线 ########################################## -->
+  <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 </div>
 
