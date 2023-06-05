@@ -23,7 +23,7 @@
   </div>
   
 </div>
-  <!-- ########################################## 分割线 ########################################## -->
+  <!-- —————————————————————————————————— 分割线 —————————————————————————————————— -->
   <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
   
 <div align="center">
@@ -55,10 +55,13 @@
     <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
   </div>
   
-  <!-- Quotes 名人名言 -->
-  <br><br><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
+  <!-- just img 图片 -->
+  <br><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
   
-   <!-- ########################################## 分割线 ########################################## -->
+  <!-- Quotes 名人名言 -->
+  <br><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
+  
+   <!-- —————————————————————————————————— 分割线 —————————————————————————————————— -->
   <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 </div>
 
