@@ -15,9 +15,9 @@
     <!-- profile logo 个人资料徽标 -->
     <a href="https://github.com/NobitaYuan"><img src="https://img.shields.io/badge/GitHub-仓库-inactive" /></a>&emsp;
     <a href="https://nobitayuan.github.io"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://space.bilibili.com/19217489"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://bilibili.com"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/yuan1723936262"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/hello-43-1-31"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <a href="https://www.zhihu.com"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=NobitaYuan&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
