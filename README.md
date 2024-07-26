@@ -25,11 +25,6 @@
   <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
   
 <div align="center">
-  <!--  奖杯  -->
-  <div align="center">
-    <img  src="https://github-profile-trophy.vercel.app/?username=NobitaYuan&theme=nord&row=1&column=7&no-frame=true&no-bg=false" /><br><br>
-  </div>
-  
   <!--  活跃曲线图  -->
   <table align="center">
      <img src="https://github-readme-activity-graph.vercel.app/graph?username=NobitaYuan&theme=react" alt="Activity"/>
