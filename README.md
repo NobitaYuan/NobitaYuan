@@ -33,9 +33,6 @@
   <!--  周连续贡献  -->
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/shin_chan.gif" />&emsp;[![GitHub Streak](https://streak-stats.demolab.com?user=NobitaYuan&theme=tokyonight&locale=zh_Hans&mode=weekly)](https://github.com/NobitaYuan)&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/shin_chan.gif" />
    
-  <!-- GitHub 数据统计 -->
-  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NobitaYuan&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=radical" />
-  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NobitaYuan&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=radical" /><br><br>
   <div align="center">
     <!-- gif -->
     <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
@@ -50,9 +47,10 @@
   <!-- just img 图片 -->
   <br><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
   
+  <!-- —————————————————————————————————— 分割线 —————————————————————————————————— -->
+  <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+  
   <!-- Quotes 名人名言 -->
   <br><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
   
-   <!-- —————————————————————————————————— 分割线 —————————————————————————————————— -->
-  <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 </div>
