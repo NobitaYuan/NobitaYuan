@@ -26,12 +26,14 @@
   
 <div align="center">
   <!--  活跃曲线图  -->
-  <table align="center">
+<!--   <table align="center">
      <img src="https://github-readme-activity-graph.vercel.app/graph?username=NobitaYuan&theme=react" alt="Activity"/>
-  </table>
+  </table> -->
   
   <!--  周连续贡献  -->
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/shin_chan.gif" />&emsp;[![GitHub Streak](https://streak-stats.demolab.com?user=NobitaYuan&theme=tokyonight&locale=zh_Hans&mode=weekly)](https://github.com/NobitaYuan)&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/shin_chan.gif" />
+  <!--  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/shin_chan.gif" />&emsp;-->
+  [![GitHub Streak](https://streak-stats.demolab.com?user=NobitaYuan&theme=tokyonight&locale=zh_Hans&mode=weekly)](https://github.com/NobitaYuan)
+ <!-- &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/shin_chan.gif" />-->
    
   <div align="center">
     <!-- gif -->
