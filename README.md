@@ -1,16 +1,15 @@
 <div align="center">
   
   <!-- dynamic typing effect 动态打字效果 -->
-  <div align="center">
-    <a href="https://nobitayuan.github.io/">
+<div align="center">
+    <a href="https://nobitayuan.cn">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=道阻且长 行则将至;祝您今天生活愉快!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
-  <div align="center">
+     <div align="center">
     <!-- knock code pictures 敲代码的图片 -->
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
-  </div><br>
-  
+    <!-- <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+  </div><br>  -->
   <div align="center">
     <!-- profile logo 个人资料徽标 -->
     <a href="https://github.com/NobitaYuan"><img src="https://img.shields.io/badge/GitHub-仓库-inactive" /></a>&emsp;
